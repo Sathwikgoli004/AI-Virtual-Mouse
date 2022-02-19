@@ -5,12 +5,12 @@ Hand Tracking Module
 
 Moving Mode (Using index finger)
 
-Volume Modulation(Using thumb finger and little finger)
+Volume Modulation (Using thumb finger and little finger)
 
-Right Click(Using thumb finger and index finger)
+Right Click (Using thumb finger and index finger)
 
-Left Click(Using middle finger and index finger)
+Left Click (Using middle finger and index finger)
 
-Screenshot(Using thumb finger)
+Screenshot (Using thumb finger)
 
 We can perform all these respective features using above gestures.
